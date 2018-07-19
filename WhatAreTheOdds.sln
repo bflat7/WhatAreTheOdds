@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatAreTheOdds", "WhatAreTheOdds\WhatAreTheOdds.csproj", "{EE6563FC-DEE2-4160-BC4C-C0858AA4CD71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatAreTheOddsTests", "..\WhatAreTheOddsTests\WhatAreTheOddsTests.csproj", "{93A4AFEF-30A6-4296-B9EC-8AB1F5F9308B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatAreTheOddsTest", "WhatAreTheOddsTest\WhatAreTheOddsTest.csproj", "{8B7D42D7-1F8C-4D7B-8013-441933A16265}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{EE6563FC-DEE2-4160-BC4C-C0858AA4CD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6563FC-DEE2-4160-BC4C-C0858AA4CD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6563FC-DEE2-4160-BC4C-C0858AA4CD71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93A4AFEF-30A6-4296-B9EC-8AB1F5F9308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93A4AFEF-30A6-4296-B9EC-8AB1F5F9308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93A4AFEF-30A6-4296-B9EC-8AB1F5F9308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93A4AFEF-30A6-4296-B9EC-8AB1F5F9308B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7D42D7-1F8C-4D7B-8013-441933A16265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7D42D7-1F8C-4D7B-8013-441933A16265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7D42D7-1F8C-4D7B-8013-441933A16265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7D42D7-1F8C-4D7B-8013-441933A16265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
